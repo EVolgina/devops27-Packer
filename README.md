@@ -3,7 +3,7 @@
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 ### Ответ:
 ![sub](https://github.com/EVolgina/devops27-Packer/blob/main/subnet.PNG)
-![vm]()
+![vm](https://github.com/EVolgina/devops27-Packer/blob/main/yc%20image%20list.PNG)
 ![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/VM%20YA%20cloud.PNG)
 
 # Задача 2
