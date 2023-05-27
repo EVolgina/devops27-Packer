@@ -4,7 +4,7 @@
 ### Ответ:
 ![sub]()
 ![vm]()
-![vmycloude]()
+![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/VM%20YA%20cloud.PNG)
 
 # Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
