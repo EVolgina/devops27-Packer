@@ -2,7 +2,7 @@
 Создайте собственный образ любой операционной системы (например ubuntu-20.04) с помощью Packer (инструкция).
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 ### Ответ:
-![sub]()
+![sub](https://github.com/EVolgina/devops27-Packer/blob/main/subnet.PNG)
 ![vm]()
 ![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/VM%20YA%20cloud.PNG)
 
