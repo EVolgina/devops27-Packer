@@ -11,7 +11,7 @@
 ### Ответ
 ![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
 ![zd1](https://github.com/EVolgina/devops27-Packer/blob/main/zd21vm.PNG)
-![zd2]()
+![zd2](https://github.com/EVolgina/devops27-Packer/blob/main/vmzd2.PNG)
 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
 Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
