@@ -9,7 +9,7 @@
 # Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 ### Ответ
-![zd]()
+![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
 ![zd1]()
 ![zd2]()
 2.2.* (Необязательное задание)
