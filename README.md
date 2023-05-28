@@ -12,10 +12,13 @@
 ![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
 ![zd1](https://github.com/EVolgina/devops27-Packer/blob/main/zd21vm.PNG)
 ![zd2](https://github.com/EVolgina/devops27-Packer/blob/main/vmzd2.PNG)
-2.2.* (Необязательное задание)
+
+# 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
 Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
 ### Ответ:
+![zd22](https://github.com/EVolgina/devops27-Packer/blob/main/%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D1%82%D0%B5%D1%80%D0%B0%D1%84%D0%BE%D1%80%D0%BC.PNG)
+Очень прошу помощи. Не мгу разобраться в чем проблема
 
 # Задача 3
 С помощью Ansible и Docker Compose разверните на виртуальной машине из предыдущего задания систему мониторинга на основе Prometheus/Grafana. Используйте Ansible-код в директории (src/ansible).
