@@ -10,7 +10,7 @@
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 ### Ответ
 ![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
-![zd1]()
+![zd1](https://github.com/EVolgina/devops27-Packer/blob/main/zd21vm.PNG)
 ![zd2]()
 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
