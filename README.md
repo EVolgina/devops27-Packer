@@ -3,15 +3,13 @@
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 ### Ответ:
 ![sub](https://github.com/EVolgina/devops27-Packer/blob/main/subnet.PNG)
-![vm](https://github.com/EVolgina/devops27-Packer/blob/main/vmnew.PNG)
-![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/new%20vm.PNG)
 
 # Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 ### Ответ
 ![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
-![zd1](https://github.com/EVolgina/devops27-Packer/blob/main/zd21vm.PNG)
-![zd2](https://github.com/EVolgina/devops27-Packer/blob/main/vmzd2.PNG)
+![vm](https://github.com/EVolgina/devops27-Packer/blob/main/vmnew.PNG)
+![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/new%20vm.PNG)
 
 # 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
