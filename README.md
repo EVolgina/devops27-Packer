@@ -33,5 +33,5 @@
 
 ### Ответ:
 ![node](https://github.com/EVolgina/devops27-Packer/blob/main/node.PNG)
-![]()
+![grafana]( https://github.com/EVolgina/devops27-Packer/blob/main/grafana.PNG)
 ![]()
