@@ -32,6 +32,6 @@
 скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже.
 
 ### Ответ:
-![]()
+![node](https://github.com/EVolgina/devops27-Packer/blob/main/node.PNG)
 ![]()
 ![]()
