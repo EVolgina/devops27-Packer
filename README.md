@@ -3,11 +3,11 @@
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 ### Ответ:
 ![sub](https://github.com/EVolgina/devops27-Packer/blob/main/subnet.PNG)
+![dz1](https://github.com/EVolgina/devops27-Packer/blob/main/yc%20image%20list.PNG)
 
 # Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 ### Ответ
-![zd](https://github.com/EVolgina/devops27-Packer/blob/main/sd%202%20vm.PNG)
 ![vm](https://github.com/EVolgina/devops27-Packer/blob/main/vmnew.PNG)
 ![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/new%20vm.PNG)
 
