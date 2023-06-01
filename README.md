@@ -4,7 +4,7 @@
 ### Ответ:
 ![sub](https://github.com/EVolgina/devops27-Packer/blob/main/subnet.PNG)
 ![vm](https://github.com/EVolgina/devops27-Packer/blob/main/vmnew.PNG)
-![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/VM%20YA%20cloud.PNG)
+![vmycloude](https://github.com/EVolgina/devops27-Packer/blob/main/new%20vm.PNG)
 
 # Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
